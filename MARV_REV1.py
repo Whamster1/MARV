@@ -1,5 +1,5 @@
 # MARV
-Marine Autonomous Research Vessel
+# Marine Autonomous Research Vessel
 import mraa, time, math, numpy 
 
 def main():
